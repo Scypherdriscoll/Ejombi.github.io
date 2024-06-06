@@ -28,23 +28,23 @@ This project consists of a comprehensive dataset that encapsulates the sales tra
 
 <p align="center">
 Importing libraries: <br/>
-<img src="https://imgur.com/IP5yzAW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/tShhPYa.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Loading dataset:  <br/>
-<img src="https://imgur.com/bcNWCRs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/s0Z5lMg.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Checking for missing values and duplicates: <br/>
-<img src="https://imgur.com/cMktUwl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Sl7k1is.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Compeing RMSE and MAE of all ML algorithms:  <br/>
-<img src="https://imgur.com/EuDBpdF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Compareing RMSE and MAE of all ML algorithms:  <br/>
+<img src="https://imgur.com/uTcZhlg.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Applying chosen model:  <br/>
-<img src="https://imgur.com/pXdjBjM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/lTLM4NN.png" height="80%" width="80%" alt=""/>
 <br />
 
 </p>
